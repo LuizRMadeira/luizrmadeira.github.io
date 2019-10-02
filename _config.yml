@@ -23,7 +23,7 @@ email: luiz.madeira@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esse site é um blog minimalista criado para aprender funcionalidades da ferramenta Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog /minimal-blog no site original do Willianjusten.com.br
-url: "http://luizrmadeira.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://luizrmadeira.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: luiz_twitter
 github_username:  luiz_github
 
